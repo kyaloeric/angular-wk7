@@ -1,0 +1,66 @@
+.how-it-works-container {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  h1 {
+    font-size: 2em;
+  }
+  
+  .circles-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 30px 0;
+  }
+  
+  .circle {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #4CAF50;
+    display: inline-block;
+  }
+  
+  .line {
+    width: 30px;
+    height: 3px;
+    background-color: #4CAF50; /* Green color */
+    display: inline-block;
+  }
+  
+  .step-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+  }
+  
+  .step {
+    width: 30%;
+  }
+  
+  .step-number {
+    font-size: 1.5em;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 1em;
+  }
+  
+  .create-plan-button {
+    background-color: #8BC34A; 
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2em;
+    cursor: pointer;
+  }
+  

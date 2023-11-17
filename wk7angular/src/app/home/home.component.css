@@ -1,0 +1,24 @@
+.home-container {
+    background: url('https://t4.ftcdn.net/jpg/01/05/90/77/360_F_105907729_4RzHYsHJ2UFt5koUI19fc6VzyFPEjeXe.jpg') center/cover no-repeat;
+    height: 80vh;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    text-align: left;
+    margin-top:  20px;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    border-radius: 10px;
+    margin-bottom: 10px;
+
+  }
+  
+  .text-container {
+    max-width: 600px;
+    margin-left: 60px;
+    color: white;
+  }
+
+  .text-container p{
+    color: gray;
+  }

@@ -1,0 +1,42 @@
+.collection-container {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .background-text {
+    font-size: 4em;
+    color: #555; /* Adjust the gray color as needed */
+    margin-bottom: 20px;
+  }
+  
+  .image-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between; 
+    margin: 100px;
+    align-items: center;
+  }
+  
+  .coffee-bag-image {
+    width: 150px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: space-between;
+
+    height: 200px;
+    background: url('https://media.istockphoto.com/id/538780890/vector/coffee-bean-in-brown-paper-bag-packaging.jpg?s=612x612&w=0&k=20&c=WHNT9EbTrWwZRBGd8eR-NLjDNx3ShxjeUdaWu6FvYZI=') center/cover no-repeat;  }
+  
+  .details-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between; 
+    margin: 100px;
+    align-items: center;
+
+  }
+  
+  .item {
+    margin-bottom: 30px;
+  }
+  
